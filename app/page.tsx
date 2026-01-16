@@ -111,7 +111,7 @@ export default function Home() {
                 Contact
               </p>
               <p className="text-base text-[#f6f1ea] mb-3">
-                Business inquiries and Apple Developer Program verification.
+                Business inquiries, rates, collaboration.
               </p>
               <a
                 href="mailto:vinny@vanslykeventures.com"
