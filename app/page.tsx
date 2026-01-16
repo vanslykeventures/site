@@ -17,7 +17,7 @@ export default function Home() {
         <section className="grid gap-8 lg:grid-cols-[1.2fr_0.8fr] items-start">
           <div className="animate-fade-up">
             <p className="text-[#f0c27b] uppercase tracking-[0.3em] text-xs mb-6">
-              Software contractor
+              Software engineer contractor
             </p>
             <h1 className="text-4xl md:text-5xl font-semibold leading-tight mb-6">
               Reliable software delivery for growing organizations.
@@ -28,14 +28,6 @@ export default function Home() {
                 className="bg-[#f0c27b] text-[#1b1e23] px-6 py-3 rounded-full font-semibold hover:bg-[#f6d7a6] transition-colors"
               >
                 Contact
-              </a>
-              <a
-                href="https://github.com/vanslykeventures"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 rounded-full border border-white/20 text-white hover:border-white/50 transition-colors"
-              >
-                GitHub
               </a>
             </div>
           </div>
