@@ -17,11 +17,16 @@ export default function Home() {
         <section className="grid gap-8 lg:grid-cols-[1.2fr_0.8fr] items-start">
           <div className="animate-fade-up">
             <p className="text-[#f0c27b] uppercase tracking-[0.3em] text-xs mb-6">
-              Software engineer contractor
+              Software engineering &amp; product delivery
             </p>
             <h1 className="text-4xl md:text-5xl font-semibold leading-tight mb-6">
               Reliable software delivery for growing organizations.
             </h1>
+            <p className="text-sm text-[#c7c0b6] max-w-xl mb-6">
+              VanSlyke Ventures, LLC is a U.S.-based software engineering services
+              business specializing in custom web and application development,
+              maintenance, and technical consulting.
+            </p>
             <div className="flex flex-wrap gap-4">
               <a
                 href="mailto:vinny@vanslykeventures.com"
